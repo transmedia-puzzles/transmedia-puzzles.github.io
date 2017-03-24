@@ -163,7 +163,9 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+}
 
+.page {
     h2 {
         margin-top: 1em;
         border-bottom: 1px solid #ccc;
@@ -179,7 +181,7 @@
     }
 }
 
-.page-heading {
+.page-header {
     font-size: 20px;
 }
 
