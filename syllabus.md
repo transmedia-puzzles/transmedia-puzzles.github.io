@@ -24,6 +24,13 @@ This class will expose you to a spectrum of puzzle styles and mechanics, and it 
 * Puzzle homework: *20%*
 * Group Projects: *50%*
 
+## How I'll grade puzzles
+
+* Elegance
+* Fair use of noise
+* Clever use of form
+* Minimal Googling
+
 ## Office hours
 
 Mondays 2 - 3 PM
@@ -49,7 +56,8 @@ _(Subject to revision)_
 ### Week 3: Signal vs. Noise
 
 * Good noise vs bad noise
-* How to properly add noise to make a puzle
+* How to properly add noise to make a puzzle
+* How to keep most players engaged, how to surface puzzles, how to pace game
 * More tools
 
 ### Week 4: Using the environment
@@ -57,7 +65,7 @@ _(Subject to revision)_
 * Walk through campus
 * Brainstorm on how to integrate into ARG
 * Break into groups
-* Homework: build site-specific puzzle 
+* Homework: build site-specific puzzle
 
 ### Week 5: Playtesting
 
