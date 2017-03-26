@@ -165,22 +165,6 @@
     padding: $spacing-unit 0;
 }
 
-.page {
-    h2 {
-        margin-top: 1em;
-        border-bottom: 1px solid #ccc;
-    }
-
-    h3 {
-        margin-top: 1.5em;
-        border-bottom: 1px dashed #ddd;
-    }
-
-    h4 {
-        font-weight: bold;
-    }
-}
-
 .page-header {
     font-size: 20px;
 }
@@ -204,6 +188,21 @@
     font-size: 24px;
 }
 
+.post {
+    h2 {
+        margin-top: 1em;
+        border-bottom: 1px solid #ccc;
+    }
+
+    h3 {
+        margin-top: 1.5em;
+        border-bottom: 1px dashed #ddd;
+    }
+
+    h4 {
+        font-weight: bold;
+    }
+}
 
 
 /**

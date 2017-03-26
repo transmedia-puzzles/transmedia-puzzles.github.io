@@ -35,13 +35,33 @@ _(Subject to revision)_
 
 ### Week 1: Exposure to the form
 
-### Week 2: Solving
+* Solve an array of puzzle examples
+* Build some simple puzzles, based on established forms.
+* Discuss ideas for embedding puzzles into ParaSite
+* Exposure to 1 or 2 puzzlemaking tools
 
-### Week 3: Signal vs Noise
+### Week 2: Confusion vs. Mystery
+
+* What differentiates a good puzzle from a bad one
+* More solving techniques
+* Exposure to 1 or 2 puzzlemaking tools
+
+### Week 3: Signal vs. Noise
+
+* Good noise vs bad noise
+* How to properly add noise to make a puzle
+* More tools
 
 ### Week 4: Using the environment
 
-### Week 5: Layering
+* Walk through campus
+* Brainstorm on how to integrate into ARG
+* Break into groups
+* Homework: build site-specific puzzle 
+
+### Week 5: Playtesting
+
+* How to playtest properly
 
 ### Week 6: Workshop
 
