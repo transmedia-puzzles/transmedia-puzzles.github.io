@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+short: Syllabus
 permalink: /syllabus/
 ---
 
