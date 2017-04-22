@@ -120,7 +120,6 @@ permalink: /lists/
 - First 26 elements in the periodic table
 - Portraits in Hutch by the number given in the guide
 - Pokemon by National Dex number
-- Yessss, very good - liam
 - Seasons of the Simpsons
 - The first 26 countries in the Animaniacs “countries of the world” song
 - First 26 “things” in We Didn’t Start the Fire
