@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Items on campus
-short: Items
-permalink: /items/
+permalink: /2017/items/
 ---
 
 ### Group 1

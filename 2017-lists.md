@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Canonically Numbered Lists
-short: Lists
-permalink: /lists/
+permalink: /2017/lists/
 ---
 
 ### Group 1
