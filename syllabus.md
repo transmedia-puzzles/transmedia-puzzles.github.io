@@ -12,11 +12,8 @@ This class will expose you to a spectrum of puzzle styles and mechanics, and it 
 ## Class expectations
 
 * Solve all the puzzles you're assigned. If that means asking for hints until you get it, do that.
-
 * Shift your day-to-day perception so that you're constantly on the lookout for how the words and things around you can be turned into a puzzle.
-
 * Be willing to playtest and offer helpful critique to your classmates.
-
 * If you're not getting it, ask.
 
 ## Grade breakdown
@@ -45,49 +42,32 @@ _(Subject to revision)_
 
 * Solve an array of puzzle examples
 * Build some simple puzzles, based on established forms.
-* Discuss ideas for embedding puzzles into ParaSite
 * Exposure to 1 or 2 puzzlemaking tools
 
-### Week 2: Confusion vs. Mystery
+### Week 2: Confusion vs. Mystery / Signal vs. Noise
 
 * What differentiates a good puzzle from a bad one
+* Good noise vs bad noise
 * More solving techniques
 * Exposure to 1 or 2 puzzlemaking tools
 
-### Week 3: Signal vs. Noise
+### Week 3: Environmental puzzles
 
-* Good noise vs bad noise
-* How to properly add noise to make a puzzle
-* How to keep most players engaged, how to surface puzzles, how to pace game
-* More tools
+* Site-specific puzzle
 
-### Week 4: Using the environment
-
-* Walk through campus
-* Brainstorm on how to integrate into ARG
-* Break into groups
-* Homework: build site-specific puzzle
-
-### Week 5: Playtesting
+### Week 4: Playtesting / Buidting a set
 
 * How to playtest properly
 
-### Week 6: Workshop
+### Week 5: Playtest + build
 
-**Due**
-* Abstract on final project
+### Week 6: Playtest + build
 
-### Week 7: Workshop
+### Week 7: Playtest + build
 
-**Due**
-* 5-page report on final project
+### Week 8: Playtest + build
 
-### Week 8: Workshop
-
-**Due**
-* Half the puzzles for final project
-
-### Week 9: Final presentations
+### Week 9: Final projects doo
 
 **Due**
 * Completed final project
