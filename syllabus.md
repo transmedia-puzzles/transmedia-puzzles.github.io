@@ -67,7 +67,7 @@ _(Subject to revision)_
 
 ### Week 8: Playtest + build
 
-### Week 9: Final projects doo
+### Week 9: Final projects due
 
 **Due**
 * Completed final project
