@@ -26,7 +26,11 @@ permalink: /lists/
 - States by date of foundation
 - State capitals
 - Countries (alphabetically)
+- 26 highest ranked universities by QS World University Rankings
 - The World’s Billionaires 2018 – Forbes
+- Majors at UChicago by number of students
+- Books in the Catholic New Testament
+- Fraternities at the University of Missouri by establishment date
 - Baseball teams by date founded
 
 ### Group 3
