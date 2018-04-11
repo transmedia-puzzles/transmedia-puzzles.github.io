@@ -7,7 +7,6 @@ permalink: /campus/
 
 ### Group 1
 
-- List of Things That Can Be Made Into a Puzzle On Campus
 - Portraits in Hutch
 - Wright table and chairs in Smart Museum
 - Cement Car in North Parking Lot
