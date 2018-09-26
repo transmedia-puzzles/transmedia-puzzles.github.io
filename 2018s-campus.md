@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objects on campus
-short: Campus
+# short: Campus
 permalink: /campus/
 ---
 
