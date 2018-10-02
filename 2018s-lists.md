@@ -2,7 +2,7 @@
 layout: page
 title: Canonically Numbered Lists
 # short: Lists
-permalink: /lists/
+permalink: /2018s/lists/
 ---
 
 ### Group 1

@@ -2,7 +2,7 @@
 layout: page
 title: Objects on campus
 # short: Campus
-permalink: /campus/
+permalink: /2018s/campus/
 ---
 
 ### Group 1
