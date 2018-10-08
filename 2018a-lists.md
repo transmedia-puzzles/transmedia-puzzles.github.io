@@ -56,3 +56,16 @@ permalink: /lists/
 8. Player’s numbers on a football team
 9. Top 26 stocks by market capitalization on a certain date
 10.Top box office movies of all time
+
+### Group 5
+
+1. US Presidents
+2. Strikeout Leaders in MLB 2018
+3. US States
+4. Jordans
+5. Super Bowl Champions
+6. Top Grossing Movies All Time
+7. Elements
+8. US gold medal winners
+9. US News & Report University List
+10. Most viewed genius lyrics(?)
