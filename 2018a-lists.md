@@ -55,7 +55,7 @@ permalink: /lists/
 7. Top streamed spotify songs on a certain date
 8. Player’s numbers on a football team
 9. Top 26 stocks by market capitalization on a certain date
-10.Top box office movies of all time
+10. Top box office movies of all time
 
 ### Group 5
 
