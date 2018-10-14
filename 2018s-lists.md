@@ -46,7 +46,6 @@ permalink: /2018s/lists/
 - First 26 Xanth Novels
 - First 26 Magic Treehouse Novels
 
-
 ### Group 4
 
 - Shakespeare plays by chronological publish order
@@ -86,3 +85,15 @@ permalink: /2018s/lists/
 - Biggest known planets
 - Longest living mammals in the wild
 
+### Group 7
+
+1. Elements of periodic table
+2. Years countries were established
+3. English kings
+4. Order of Greek gods
+5. College rankings in a given year
+6. Holiday listings in the USA in a year in the order they come
+7. First 26 popes
+8. Date of establishment of countries
+9. Size of countries
+10. List of Jupiter’s moons
