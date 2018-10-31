@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-short: Syllabus
+# short: Syllabus
 permalink: /syllabus/
 ---
 

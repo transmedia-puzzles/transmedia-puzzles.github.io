@@ -1,9 +1,43 @@
 ---
 layout: page
-title: Modules for Whether Initiative
-short: Modules
-permalink: /2018a/modules/
+title: ARG
+short: ARG
+permalink: /arg/
 ---
+
+## Puzzle ideas
+
+1. Books
+2. Swag box: podcards, mask + note, 16 pieces divided among 16 boxes
+3. Map, mailed out. Diff between virtual tour and street view.
+4. Podcast. Different languages, released over time, out of order. Maniuplate URl to find missing eps.
+5. FB event. McD's meetup, lots of cities
+6. Pre-reg. Use canvas.
+7. Slack
+8. Twitter. Who it follows. Follow them -> get a DM
+9. Fake Maroon mailed to all students
+10. Online escape game
+11. Scan & Deliver
+12. Instagram, selective follow permission based on geography
+13. Wiki metadata
+14. Fake course + evalutation
+15. Retweets of other acounts, but all those tweets together resolve to something.
+
+## Platform ideas
+
+* Twitter
+* YouTube
+* Podcast
+* Maroon
+* Swag
+* Meetup
+* Canvas
+* Scan & Deliver
+* Instagram
+* Wiki
+
+## Modules
+
 
 ### Module 1: History and Archaeology Fourcast
 
