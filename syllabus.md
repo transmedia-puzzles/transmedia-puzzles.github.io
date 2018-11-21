@@ -72,6 +72,7 @@ _(Subject to revision)_
 ### Week 6
 
 * ARG module building & testing
+* Twitter puzzles
 
 ### Week 7
 
