@@ -82,10 +82,12 @@ _(Subject to revision)_
 ### Week 8
 
 * Logan Party walkaround hunt
+* Collaborative solving
 
 ### Week 9
 
 * Building out final puzzles
+* Collaborative solving
 
 ### Week 10
 
