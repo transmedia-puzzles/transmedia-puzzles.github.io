@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-# short: Syllabus
+short: Syllabus
 permalink: /syllabus/
 ---
 
@@ -38,39 +38,55 @@ Meeting after class is most likely.
 
 _(Subject to revision)_
 
-### Week 1: Exposure to the form
+### Week 1
 
-* Solve an array of puzzle examples
+* Solve a variety of puzzle types.
 * Build some simple puzzles, based on established forms.
-* Exposure to 1 or 2 puzzlemaking tools
+* Exposure to 1 or 2 puzzlemaking tools.
 
-### Week 2: Confusion vs. Mystery / Signal vs. Noise
+### Week 2
 
-* What differentiates a good puzzle from a bad one
-* Good noise vs bad noise
-* More solving techniques
-* Exposure to 1 or 2 puzzlemaking tools
+* What differentiates a good puzzle from a bad one.
+* Good noise vs bad noise.
+* Exposure to more puzzle formats.
+* More puzzle building techniques.
+* How to playtest properly.
 
-### Week 3: Environmental puzzles
+### Week 3
 
-* Site-specific puzzle
+* Building puzzles into the real world
+* Human interaction puzzles
+* Introduction to the ARG.
+* Playtesting
 
-### Week 4: Playtesting / Buidting a set
+### Week 4
 
-* How to playtest properly
+* Video puzzles
+* ARG module brainstorming
+* Playtesting
 
-### Week 5: Playtest + build
+### Week 5
 
-### Week 6: Playtest + build
+* ARG module building & testing
 
-### Week 7: Playtest + build
+### Week 6
 
-### Week 8: Playtest + build
+* ARG module building & testing
 
-### Week 9: Final project lab
+### Week 7
 
-### Week 10: Final projects due
+* Cryptics
+* Playtesting
 
-**Due**
-* Completed final project
-* Be prepared to playtest one in class
+### Week 8
+
+* Logan Party walkaround hunt
+
+### Week 9
+
+* Building out final puzzles
+
+### Week 10
+
+* Testing final puzzle
+* Working on final puzzle
