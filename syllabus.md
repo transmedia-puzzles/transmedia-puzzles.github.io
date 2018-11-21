@@ -43,6 +43,7 @@ _(Subject to revision)_
 * Solve a variety of puzzle types.
 * Build some simple puzzles, based on established forms.
 * Exposure to 1 or 2 puzzlemaking tools.
+* Using spreadsheets to organize your puzzle design.
 
 ### Week 2
 
