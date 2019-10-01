@@ -57,22 +57,22 @@ _(Subject to revision)_
 
 * Building puzzles into the real world
 * Human interaction puzzles
-* Introduction to the ARG.
+* Introduction to the final project.
 * Playtesting
 
 ### Week 4
 
 * Video puzzles
-* ARG module brainstorming
+* Final project brainstorming
 * Playtesting
 
 ### Week 5
 
-* ARG module building & testing
+* Final project building & testing
 
 ### Week 6
 
-* ARG module building & testing
+* Final project building & testing
 * Twitter puzzles
 
 ### Week 7

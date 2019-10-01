@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ARG
-short: ARG
 permalink: /arg/
 ---
 
