@@ -5,7 +5,10 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
+    {% assign curDate = site.time | date: '%s' %}
     {% for post in site.posts %}
+        {% assign postStartDate = post.date | date: '%s' %}
+        {% if postStartDate <= curDate %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -13,6 +16,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+        {% endif %}
     {% endfor %}
   </ul>
 
