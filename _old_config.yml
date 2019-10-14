@@ -1,0 +1,15 @@
+# Site settings
+title: Transmedia Puzzles
+email: sandor@uchicago.edu
+description: TAPS 24410
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://transmedia-puzzles.github.io" # the base hostname & protocol for your site
+twitter_username: santheo
+github_username:  santheo
+future: true
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-redirect-from

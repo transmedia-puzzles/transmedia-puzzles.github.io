@@ -4,3 +4,4 @@ config.codekit3
 .DS_Store
 *.icloud
 vendor
+.jekyll-cache
