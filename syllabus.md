@@ -67,23 +67,24 @@ _(Subject to revision)_
 
 * Building puzzles into the real world
 * Human interaction puzzles
-* Introduction to the final project.
 * Playtesting
 
 ### Week 4
 
-* Video puzzles
-* Final project brainstorming
 * Playtesting
+* Midterm project brainstorming
+* Introduction to the final project.
 
 ### Week 5
 
-* Final project building & testing
+* Midterm project playtesting
+* Twitter puzzles
+* Logic puzzles
 
 ### Week 6
 
+* Video puzzles
 * Final project building & testing
-* Twitter puzzles
 
 ### Week 7
 
