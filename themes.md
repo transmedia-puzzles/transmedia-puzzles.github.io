@@ -11,7 +11,7 @@ permalink: /themes/
 4. Choose Your Own Adventure
 5. Menu
 6. Cookbook
-7. Family Scrapbook
+7. <del>Family Scrapbook</del> Taken by 4.6
 8. Grimm's
 9. College
 10. Starbucks
