@@ -22,7 +22,7 @@ permalink: /themes/
 15. Music
 16. <del>Clue</del> - Rebecca & Samantha
 17. Theatre
-18. Avatar
+18. <del>Avatar</del> - Melissa & Bri
 19. Wizard of Oz
 20. <del>Indiana Jones</del> - Michael & Ethan
 21. Triathlon (or Tetrathlon)
