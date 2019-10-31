@@ -5,7 +5,7 @@ short: Themes
 permalink: /themes/
 ---
 
-1. Trick or Treating
+1. <del>Trick or Treating</del> - Bill & Sebastian
 2. <del>IKEA</del> - Aishwarya & Olinka
 3. Naval battles
 4. Choose Your Own Adventure
@@ -25,4 +25,4 @@ permalink: /themes/
 18. Avatar
 19. Wizard of Oz
 20. <del>Indiana Jones</del> - Michael & Ethan
-21. Triathlon (or Tetrathlong)
+21. Triathlon (or Tetrathlon)
