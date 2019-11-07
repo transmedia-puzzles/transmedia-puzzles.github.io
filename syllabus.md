@@ -83,17 +83,21 @@ _(Subject to revision)_
 
 ### Week 6
 
-* Video puzzles
-* Final project building & testing
+* Midterm project playtesting
+* Video or walkaround
+* Final project brainstorming
+* Decide final project teams
+* Guest speaker
 
 ### Week 7
 
+* Video or walkaround playtesting
 * Cryptics
-* Playtesting
+* Final project work
 
 ### Week 8
 
-* Logan Party walkaround hunt
+* Building out final puzzles
 * Collaborative solving
 
 ### Week 9
