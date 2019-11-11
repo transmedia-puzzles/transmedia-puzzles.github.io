@@ -87,13 +87,13 @@ _(Subject to revision)_
 * Video or walkaround
 * Final project brainstorming
 * Decide final project teams
-* Guest speaker
 
 ### Week 7
 
 * Video or walkaround playtesting
 * Cryptics
 * Final project work
+* Guest speaker
 
 ### Week 8
 
@@ -101,11 +101,6 @@ _(Subject to revision)_
 * Collaborative solving
 
 ### Week 9
-
-* Building out final puzzles
-* Collaborative solving
-
-### Week 10
 
 * Testing final puzzle
 * Working on final puzzle
