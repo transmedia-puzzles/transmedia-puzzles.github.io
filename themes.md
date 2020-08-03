@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Puzzled Pint themes
-short: Themes
+# short: Themes
 permalink: /themes/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Canonically Numbered Lists
-short: Lists
+# short: Lists
 permalink: /lists/
 ---
 

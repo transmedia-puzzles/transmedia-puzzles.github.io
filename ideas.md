@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Puzzles We've Come Up With
-short: Puzzles
+# short: Puzzles
 permalink: /ideas/
 ---
 
